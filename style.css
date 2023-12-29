@@ -1,0 +1,52 @@
+.first{
+    border: 1px solid black;
+display: inline;
+padding: 3px;
+margin: 5px;
+}
+.first one{
+background-color: aqua;
+width: ;
+}
+body{
+    background-color: white;
+}
+*{
+    margin: 0;
+    padding: 0;
+    height: ;
+}
+.wear{
+    display:inline-block;
+border: ;
+box-shadow: 3px 4px 5px;
+width: 15vw;
+height: 40vh;
+background-color: white;
+text-align: center;
+justify-content: center;
+align-items: center;
+padding: 10px;
+border-radius: 20px;
+
+
+}
+.wear:hover{
+transform: scale(1.1);
+z-index: 4;
+
+}
+.problem{
+    background-color: white;
+    display: inline;
+    width: 30vw;
+    bottom: 0px;
+    left: 70vw;
+    float: right;
+    position: fixed;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 30vh;
+    justify-content: center;
+    align-items: center;
+}
